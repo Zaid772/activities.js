@@ -256,7 +256,7 @@ for(let i = 0; i < 6; i++){
         if(i % 7 == 0){
                 console.log("Number is divisble by 7");
         }
-        else if(i % 7 != 0){
+        else {
                 console.log("Number is not divisible by 7")
         };
         
